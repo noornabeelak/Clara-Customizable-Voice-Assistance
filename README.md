@@ -20,13 +20,12 @@
 
 ## 🛠 Tech Stack
 
-- Python
+- [Python](https://www.python.org/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [Pyttsx3](https://pypi.org/project/pyttsx3/)
 - [Wikipedia API](https://pypi.org/project/wikipedia/)
 - [ecapture](https://pypi.org/project/ecapture/)
-- [Google Generative AI (Gemini)](https://ai.google.dev/)
-- Webbrowser, OS, Subprocess
+- [Google Generative AI](https://ai.google.dev/)
 
 ---
 
