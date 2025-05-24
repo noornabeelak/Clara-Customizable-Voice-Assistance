@@ -17,8 +17,20 @@
 - **Customizable** – Easily extend with your own commands and plugins.
 
 ---
+## 📁 Repository Structure
 
-## 🛠 Tech Stack
+This repository contains two main files:
+clara-voice-assistant/
+├── clara.py # Main program file containing Clara's logic and flow
+├── my_secrets.py # Contains the Gemini API key (keep this private)
+
+---
+```python
+# my_secrets.py
+GEMINI_API_KEY = "your_gemini_api_key_here"
+---
+
+## Tech Stack
 
 - [Python](https://www.python.org/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
