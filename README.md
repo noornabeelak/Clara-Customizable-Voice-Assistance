@@ -4,17 +4,17 @@
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎤 **Voice Command Recognition** – Listens and understands your voice in real time
-- 🗣️ **Text-to-Speech Responses** – Talks back using natural-sounding voices (Zira, if available)
-- 🤖 **AI-Powered Conversations** – Integrated with **Gemini 1.5 Flash** for smart Q&A
-- 🌐 **Web Automation** – Opens YouTube, Google, Gmail, Stack Overflow via commands
-- 📷 **Camera Integration** – Captures images using your webcam
-- 📚 **Wikipedia Support** – Summarizes topics on demand
-- 🕒 **Time Announcements** – Tells the current time
-- 🔒 **System Commands** – Log off or shut down via voice
-- 🧩 **Customizable** – Easily extend functionality with your own commands
+- **Voice Command Recognition** – Listens and understands your voice in real time.
+- **Text-to-Speech Responses** – Speaks back using natural-sounding voices (Zira support included).
+- **AI-Powered Conversations** – Uses Gemini 1.5 Flash to answer questions intelligently and concisely.
+- **Web Automation** – Opens YouTube, Google, Gmail, Stack Overflow, and more.
+- **Camera Integration** – Captures images using your webcam.
+- **Wikipedia Support** – Searches and summarizes information from Wikipedia.
+- **Time Announcements** – Tells you the current time when asked.
+- **System Commands** – Supports voice-controlled log off or shutdown.
+- **Customizable** – Easily extend with your own commands and plugins.
 
 ---
 
