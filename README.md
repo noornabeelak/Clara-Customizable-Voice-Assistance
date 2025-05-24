@@ -1,4 +1,4 @@
-# 🗣️ Clara – Customizable AI Voice Assistant
+# Clara – Customizable AI Voice Assistant
 
 **Clara** is an intelligent, voice-activated personal assistant built with Python. It uses natural language processing, speech recognition, and generative AI (Google Gemini) to help you automate tasks, answer questions, browse the internet, and more – all with your voice.
 
