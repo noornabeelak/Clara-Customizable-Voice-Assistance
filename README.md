@@ -34,5 +34,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/clara-voice-assistant.git
+git clone https://github.com/noornabeelak/Clara-Customizable-Voice-Assistance
 cd clara-voice-assistant
