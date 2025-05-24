@@ -4,19 +4,7 @@
 
 ---
 
-## Features
 
-- **Voice Command Recognition** – Listens and understands your voice in real time.
-- **Text-to-Speech Responses** – Speaks back using natural-sounding voices (Zira support included).
-- **AI-Powered Conversations** – Uses Gemini 1.5 Flash to answer questions intelligently and concisely.
-- **Web Automation** – Opens YouTube, Google, Gmail, Stack Overflow, and more.
-- **Camera Integration** – Captures images using your webcam.
-- **Wikipedia Support** – Searches and summarizes information from Wikipedia.
-- **Time Announcements** – Tells you the current time when asked.
-- **System Commands** – Supports voice-controlled log off or shutdown.
-- **Customizable** – Easily extend with your own commands and plugins.
-
----
 ## 📁 Repository Structure
 
 This repository contains two main files:
@@ -33,6 +21,27 @@ GEMINI_API_KEY = "your_gemini_api_key_here"
 ```
 ---
 
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/noornabeelak/Clara-Customizable-Voice-Assistance
+```
+---
+## Features
+
+- **Voice Command Recognition** – Listens and understands your voice in real time.
+- **Text-to-Speech Responses** – Speaks back using natural-sounding voices (Zira support included).
+- **AI-Powered Conversations** – Uses Gemini 1.5 Flash to answer questions intelligently and concisely.
+- **Web Automation** – Opens YouTube, Google, Gmail, Stack Overflow, and more.
+- **Camera Integration** – Captures images using your webcam.
+- **Wikipedia Support** – Searches and summarizes information from Wikipedia.
+- **Time Announcements** – Tells you the current time when asked.
+- **System Commands** – Supports voice-controlled log off or shutdown.
+- **Customizable** – Easily extend with your own commands and plugins.
+
+---
 ## Tech Stack
 
 - [Python](https://www.python.org/)
@@ -42,12 +51,5 @@ GEMINI_API_KEY = "your_gemini_api_key_here"
 - [ecapture](https://pypi.org/project/ecapture/)
 - [Google Generative AI](https://ai.google.dev/)
 
----
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/noornabeelak/Clara-Customizable-Voice-Assistance
 
